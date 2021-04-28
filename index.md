@@ -1,10 +1,18 @@
-## Welcome to GitHub Pages
+# Tarea Corta 1: SimonTec
 
-You can use the [editor on GitHub](https://github.com/cuadriante/SimonTec-Pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Por: Adriana Calderon Barboza 2020036728
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Historias de Usuario
 
-### Markdown
+## Clasificacion Segun Criticidad 
+
+## Minimal System Span
+
+## Plan de Iteraciones
+
+## Diagrama Conceptual
+
+## Diagrama de Clases
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
