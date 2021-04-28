@@ -6,20 +6,46 @@ Por: Adriana Calderon Barboza 2020036728
 
 ## Clasificacion Segun Criticidad 
 
-| Clasificacion       | Criticidad |
+### Alta
 
-| ![AD](png/EU.png)   | European Union |
-| ![AE](png/WW.png)   | World          |
-| ![CNA](png/CNA.png) | North America  |
-| ![CSA](png/CSA.png) | South America  |
-| ![CEU](png/CEU.png) | Europe         |
-| ![CAF](png/CAF.png) | Africa         |
-| ![CAS](png/CAS.png) | Asia           |
-| ![COC](png/COC.png) | Oceania        |
+- Ventana de Juego
+- Botones de colores
+- Patron de colores
+- Patron de colores del usuario
+- Animacion de los botones al hacer clic
+
+### Media
+
+- Cambio de Nivel
+- Game Over
+
+### Baja
+
+- Musica de fondo
+- Sonido de los botones al hacer clic 
+- Labels esperar/repetir
+- Menu
+- Pantalla de fin de juego
+
 
 ## Minimal System Span
 
 ## Plan de Iteraciones
+
+| Nombre / Descripcion | Prioridad | Horas |
+
+| Diseno de botones    |   Alta    |   1   |
+| Pantalla de juego    |   Alta    |   1   |
+| Pantalla Game Over   |   Media   |   1   |
+| Pantalla Victory     |   Baja    |   1   |
+| Pantalla Menu        |   Baja    |   1   |
+| Funcional botones    |   Alta    |   3   |
+| Animacion botones    |   Alta    |   4   |
+| Patron de colores    |   Alta    |   3   |
+| Patron usuario       |   Alta    |   2   |
+| Cambio de nivel      |   Media   |   2   |
+| Musica y sonido      |   Baja    |   3   |
+| Labels               |   Baja    |   2   |
 
 ## Diagrama Conceptual
 
