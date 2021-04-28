@@ -32,7 +32,7 @@ Por: Adriana Calderon Barboza 2020036728
 
 ## Plan de Iteraciones
 
-| Nombre / Descripcion | Horas | Semana 1 | Semana 2 |
+| Nombre / Descripcion | Horas | Semana 1 |
 
 | Diseno de botones    |   1   |     O    |    O     |
 | Pantalla de juego    |   1   |     O    |    O     |
