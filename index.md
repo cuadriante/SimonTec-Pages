@@ -6,6 +6,17 @@ Por: Adriana Calderon Barboza 2020036728
 
 ## Clasificacion Segun Criticidad 
 
+| Clasificacion       | Criticidad |
+
+| ![AD](png/EU.png)   | European Union |
+| ![AE](png/WW.png)   | World          |
+| ![CNA](png/CNA.png) | North America  |
+| ![CSA](png/CSA.png) | South America  |
+| ![CEU](png/CEU.png) | Europe         |
+| ![CAF](png/CAF.png) | Africa         |
+| ![CAS](png/CAS.png) | Asia           |
+| ![COC](png/COC.png) | Oceania        |
+
 ## Minimal System Span
 
 ## Plan de Iteraciones
