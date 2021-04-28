@@ -32,20 +32,20 @@ Por: Adriana Calderon Barboza 2020036728
 
 ## Plan de Iteraciones
 
-| Nombre / Descripcion | Prioridad | Horas |
+| Nombre / Descripcion | Prioridad | Horas | Semana 1 | Semana 2|
 
-| Diseno de botones    |   Alta    |   1   |
-| Pantalla de juego    |   Alta    |   1   |
-| Pantalla Game Over   |   Media   |   1   |
-| Pantalla Victory     |   Baja    |   1   |
-| Pantalla Menu        |   Baja    |   1   |
-| Funcional botones    |   Alta    |   3   |
-| Animacion botones    |   Alta    |   4   |
-| Patron de colores    |   Alta    |   3   |
-| Patron usuario       |   Alta    |   2   |
-| Cambio de nivel      |   Media   |   2   |
-| Musica y sonido      |   Baja    |   3   |
-| Labels               |   Baja    |   2   |
+| Diseno de botones    |   Alta    |   1   |     O    |    O    |
+| Pantalla de juego    |   Alta    |   1   |     O    |    O    |
+| Pantalla Game Over   |   Media   |   1   |     x    |    O    |
+| Pantalla Victory     |   Baja    |   1   |     x    |    O    |
+| Pantalla Menu        |   Baja    |   1   |     O    |    O    |
+| Funcional botones    |   Alta    |   3   |     O    |    O    |
+| Animacion botones    |   Alta    |   4   |     O    |    O    |
+| Patron de colores    |   Alta    |   3   |     x    |    O    |
+| Patron usuario       |   Alta    |   2   |     x    |    O    |
+| Cambio de nivel      |   Media   |   2   |     x    |    O    |
+| Musica y sonido      |   Baja    |   3   |     x    |    O    |
+| Labels               |   Baja    |   2   |     x    |    O    |
 
 ## Diagrama Conceptual
 
