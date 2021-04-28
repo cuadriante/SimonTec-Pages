@@ -32,20 +32,8 @@ Por: Adriana Calderon Barboza 2020036728
 
 ## Plan de Iteraciones
 
-| Nombre / Descripcion | Horas | Semana 1 |
+![image](https://user-images.githubusercontent.com/62965634/116358978-7ba3fe00-a7bb-11eb-801f-262ace9b9e59.png)
 
-| Diseno de botones |   1   |     O    |    O     |
-| Pantalla de juego |   1   |     O    |    O     |
-| Pantalla Game Over |  1   |     -    |    O     |
-| Pantalla Victory |    1   |     -    |    O     |
-| Pantalla Menu |       1   |     O    |    O     |
-| Funcional botones |   3   |     O    |    O     |
-| Animacion botones |   4   |     O    |    O     |
-| Patron de colores |   3   |     -    |    O     |
-| Patron usuario    |   2   |     -    |    O     |
-| Cambio de nivel   |   2   |     -    |    O     |
-| Musica y sonido   |   3   |     -    |    O     |
-| Labels            |   2   |     -    |    O     |
 
 ## Diagrama Conceptual
 
