@@ -34,18 +34,18 @@ Por: Adriana Calderon Barboza 2020036728
 
 | Nombre / Descripcion | Horas | Semana 1 |
 
-| Diseno de botones    |   1   |     O    |    O     |
-| Pantalla de juego    |   1   |     O    |    O     |
-| Pantalla Game Over   |   1   |     -    |    O     |
-| Pantalla Victory     |   1   |     -    |    O     |
-| Pantalla Menu        |   1   |     O    |    O     |
-| Funcional botones    |   3   |     O    |    O     |
-| Animacion botones    |   4   |     O    |    O     |
-| Patron de colores    |   3   |     -    |    O     |
-| Patron usuario       |   2   |     -    |    O     |
-| Cambio de nivel      |   2   |     -    |    O     |
-| Musica y sonido      |   3   |     -    |    O     |
-| Labels               |   2   |     -    |    O     |
+| Diseno de botones |   1   |     O    |    O     |
+| Pantalla de juego |   1   |     O    |    O     |
+| Pantalla Game Over |  1   |     -    |    O     |
+| Pantalla Victory |    1   |     -    |    O     |
+| Pantalla Menu |       1   |     O    |    O     |
+| Funcional botones |   3   |     O    |    O     |
+| Animacion botones |   4   |     O    |    O     |
+| Patron de colores |   3   |     -    |    O     |
+| Patron usuario    |   2   |     -    |    O     |
+| Cambio de nivel   |   2   |     -    |    O     |
+| Musica y sonido   |   3   |     -    |    O     |
+| Labels            |   2   |     -    |    O     |
 
 ## Diagrama Conceptual
 
